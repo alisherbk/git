@@ -1,3 +1,3 @@
 <?php
 echo "Hello Everybody!!";
-echp "Hello from User1";
+echo "Hello from User2";
